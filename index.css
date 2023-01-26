@@ -1,0 +1,80 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+*{
+	font-family: 'Poppins', sans-serif;;
+}
+
+
+h3, p {
+	font-family: 'Oswald', sans-serif;;
+
+}
+
+.fw-bold {
+	color: #232c3b;
+	font-size: 20px;
+}
+
+#profile {
+/*	background-image: url(https://static.vecteezy.com/system/resources/previews/007/455/519/non_2x/geometric-dark-gray-polygonal-background-molecule-and-communication-connected-lines-with-dots-minimalism-background-concept-of-the-science-chemistry-biology-medicine-technology-free-vector.jpg);
+*/	
+	/*background-image: url(https://wallpaperaccess.com/full/6542784.jpg)*/;
+
+/*	background-image: url(https://i0.wp.com/wallpapersfortech.com/wp-content/uploads/2021/03/Aesthetic-Minimalist-Background.png?fit=1920%2C1080&ssl=1);
+*/	
+
+	background-image: url(https://storage.pixteller.com/designs/designs-images/2019-03-27/05/simple-background-backgrounds-passion-simple-1-5c9b95bd34713.png);
+	opacity: 0.9;
+	background-repeat: no-repeat;
+  	background-size: auto;
+}
+
+#capstone {
+	background-color: #7BAAD7;
+	/*background-image: url(https://i0.wp.com/wallpapersfortech.com/wp-content/uploads/2021/03/Aesthetic-Minimalist-Background.png?fit=1920%2C1080&ssl=1);
+	background-image: url(https://cutewallpaper.org/27/bts-wallpaper-desktop-minimalist/aesthetic-minimalist-wallpaper-wallpapers-for-tech.png);
+
+	background-repeat: no-repeat;
+	background-size: 100%;*/
+}
+
+#project {
+	background-image: url(https://cutewallpaper.org/27/bts-wallpaper-desktop-minimalist/aesthetic-minimalist-wallpaper-wallpapers-for-tech.png);
+	background-size: auto;
+}
+
+nav {
+	background-color: #f3e5ab;
+}
+
+.dropdown-menu {
+	background-color: #dab894;
+}
+
+#contact {
+	background-color: #dab894;
+}
+
+#artworks {
+	background-color: #7BAAD7;
+	background-image: linear-gradient(180deg, #7BAAD7, #2C041D);
+	/*background-image: url(https://i0.wp.com/wallpapersfortech.com/wp-content/uploads/2021/03/Aesthetic-Minimalist-Background.png?fit=1920%2C1080&ssl=1);
+	background-image: url(https://cutewallpaper.org/27/bts-wallpaper-desktop-minimalist/aesthetic-minimalist-wallpaper-wallpapers-for-tech.png);
+
+	background-repeat: no-repeat;
+	background-size: 100%;*/
+}
+
+#projects {
+	background-color: #7BAAD7; /* For browsers that do not support gradients */
+/*	background-image: linear-gradient(180deg, #7BAAD7, #f3e5ab);*/
+}
+
+#connect {
+	background-color: #dab894;
+	background-image: linear-gradient(180deg, #2C041D, #dab894);
+}
